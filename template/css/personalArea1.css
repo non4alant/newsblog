@@ -1,0 +1,10 @@
+.link{
+    float: right;
+}
+.newsAdd{
+    max-width: 400px;
+    padding: 30px;
+    color: red;
+    text-align: center;
+    margin: 0 auto;
+}

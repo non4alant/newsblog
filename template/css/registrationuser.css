@@ -1,0 +1,15 @@
+.registration{
+    padding-top: 20px;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 350px;
+}
+.registration_form{
+    padding: 20px;
+}
+form{
+    padding: 20px;
+}
+.link{
+    font-size: 15px;
+}

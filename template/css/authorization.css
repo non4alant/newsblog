@@ -1,0 +1,12 @@
+.authorization{
+    text-align: center;
+    margin-top: 20px;
+}
+.authorization_form{
+    max-width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+}
+form{
+    padding: 20px;
+}
